@@ -1,0 +1,42 @@
+body {
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+.bankName {
+    background: blue;
+    color: white;
+    padding: 10px;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.inputs {
+    margin-top: 15px;
+}
+
+.buttonDiv {
+    margin: 50px;
+    text-align: center;
+}
+
+.heading {
+    background: red;
+    color: white;
+    border: 5px solid black;
+}
+
+p {
+    margin: 10px;
+}
+
+.ledgerBorder {
+    border-bottom: 1px solid black;
+}
+body {
+     background-image:url("https://i.makeagif.com/media/8-25-2015/JNJ1rr.gif");
+    background-size: cover;
+      background-repeat:no-repeat;
+}
